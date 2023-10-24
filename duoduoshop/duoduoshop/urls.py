@@ -25,6 +25,7 @@ def log(request):
     logger = logging.getLogger('django')
     # 3.调用日志器的方法来保存日志
     logger.info('用户登陆了')
+    print('hello')
     logger.warning('redis缓存不足')
     logger.error('该记录不存在')
     logger.debug('~~~~~~~~~~~~')
