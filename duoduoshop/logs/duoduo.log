@@ -1,0 +1,39 @@
+INFO 2023-10-24 16:14:23,137 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-24 16:15:09,660 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-24 16:18:42,102 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\duoduoshop\urls.py changed, reloading.
+INFO 2023-10-24 16:18:43,581 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-24 16:20:08,349 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\duoduoshop\urls.py changed, reloading.
+INFO 2023-10-24 16:20:09,897 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-24 16:21:03,842 autoreload 668 Watching for file changes with StatReloader
+WARNING 2023-10-24 16:21:05,295 log 241 Not Found: /
+WARNING 2023-10-24 16:21:05,296 basehttp 212 "GET / HTTP/1.1" 404 2167
+INFO 2023-10-24 16:21:10,103 basehttp 212 "GET /log HTTP/1.1" 301 0
+ERROR 2023-10-24 16:21:10,171 log 241 Internal Server Error: /log/
+Traceback (most recent call last):
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\duoduoshop\urls.py", line 23, in log
+    import loging
+ModuleNotFoundError: No module named 'loging'
+ERROR 2023-10-24 16:21:10,172 basehttp 212 "GET /log/ HTTP/1.1" 500 69074
+INFO 2023-10-24 16:22:06,886 autoreload 668 Watching for file changes with StatReloader
+ERROR 2023-10-24 16:22:12,557 log 241 Internal Server Error: /log/
+Traceback (most recent call last):
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\duoduoshop\urls.py", line 23, in log
+    import loging
+ModuleNotFoundError: No module named 'loging'
+ERROR 2023-10-24 16:22:12,559 basehttp 212 "GET /log/ HTTP/1.1" 500 69062
+INFO 2023-10-24 16:22:39,829 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\duoduoshop\urls.py changed, reloading.
+INFO 2023-10-24 16:22:41,394 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-24 16:23:14,057 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-24 16:23:14,591 urls 27 用户登陆了
+WARNING 2023-10-24 16:23:14,591 urls 28 redis缓存不足
+ERROR 2023-10-24 16:23:14,592 urls 29 该记录不存在
+INFO 2023-10-24 16:23:14,592 basehttp 212 "GET /log/ HTTP/1.1" 200 3
+INFO 2023-10-24 16:45:48,850 autoreload 668 Watching for file changes with StatReloader
