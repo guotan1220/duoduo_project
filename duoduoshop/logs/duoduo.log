@@ -269,3 +269,86 @@ INFO 2023-10-25 10:46:05,153 urls 27 用户登陆了
 WARNING 2023-10-25 10:46:05,153 urls 29 redis缓存不足
 ERROR 2023-10-25 10:46:05,153 urls 30 该记录不存在
 INFO 2023-10-25 10:46:05,153 basehttp 212 "GET /log/ HTTP/1.1" 200 3
+INFO 2023-10-25 14:22:04,337 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 14:24:53,417 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\duoduoshop\settings.py changed, reloading.
+INFO 2023-10-25 14:24:54,678 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 14:27:42,685 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 14:28:37,321 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 14:28:56,778 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\duoduoshop\settings.py changed, reloading.
+INFO 2023-10-25 14:28:57,974 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 14:29:43,957 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 14:29:56,537 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 14:30:08,536 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 14:30:55,482 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 14:31:01,693 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 14:31:11,324 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 14:31:57,351 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\duoduoshop\settings.py changed, reloading.
+INFO 2023-10-25 14:31:58,593 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 14:38:23,310 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 14:39:20,680 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 14:40:29,247 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 14:40:38,697 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 14:40:51,573 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 14:41:03,734 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\apps\users\models.py changed, reloading.
+INFO 2023-10-25 14:41:05,245 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 14:41:28,074 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\apps\users\models.py changed, reloading.
+INFO 2023-10-25 14:41:29,416 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 14:41:37,505 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 14:42:24,836 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 14:43:31,431 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 17:31:17,673 autoreload 668 Watching for file changes with StatReloader
+WARNING 2023-10-25 17:31:35,496 log 241 Not Found: /usernames/guotan/count/
+WARNING 2023-10-25 17:31:35,497 basehttp 212 "PUT /usernames/guotan/count/ HTTP/1.1" 404 2254
+WARNING 2023-10-25 17:31:38,902 log 241 Not Found: /usernames/guotan/count/
+WARNING 2023-10-25 17:31:38,904 basehttp 212 "GET /usernames/guotan/count/ HTTP/1.1" 404 2254
+INFO 2023-10-25 17:32:41,426 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\duoduoshop\urls.py changed, reloading.
+INFO 2023-10-25 17:32:42,863 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 17:33:05,923 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\apps\users\urls.py changed, reloading.
+INFO 2023-10-25 17:33:07,288 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 17:33:30,131 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\apps\users\views.py changed, reloading.
+INFO 2023-10-25 17:33:31,486 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 17:39:23,921 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 17:39:34,523 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 17:40:22,067 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 17:44:21,222 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 17:47:59,978 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 17:50:18,495 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 17:54:01,911 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 17:55:31,291 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\users\admin.py changed, reloading.
+INFO 2023-10-25 17:55:32,691 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 17:56:01,994 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\users\admin.py changed, reloading.
+INFO 2023-10-25 17:56:03,331 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 17:56:30,092 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 17:56:39,254 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 17:57:14,695 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 17:58:31,195 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\users\admin.py changed, reloading.
+INFO 2023-10-25 17:58:32,553 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 18:00:11,386 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 18:01:55,682 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 18:03:08,791 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\users\apps.py changed, reloading.
+INFO 2023-10-25 18:03:10,199 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 18:06:54,593 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\users\models.py changed, reloading.
+INFO 2023-10-25 18:06:56,146 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 18:07:59,368 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 18:08:32,473 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 18:10:47,801 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 18:11:24,052 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 18:12:22,412 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 18:12:51,017 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 18:13:08,266 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 18:14:56,844 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\users\admin.py changed, reloading.
+INFO 2023-10-25 18:14:58,333 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 18:15:43,825 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 18:15:51,385 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 18:16:14,371 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\users\models.py changed, reloading.
+INFO 2023-10-25 18:16:15,873 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 18:17:07,132 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 18:17:17,390 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 18:17:39,159 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 18:19:28,642 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 19:50:18,968 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 19:52:55,019 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 19:52:56,594 basehttp 212 "GET /usernames/guotan/count/ HTTP/1.1" 200 25
+INFO 2023-10-25 19:54:42,734 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\users\views.py changed, reloading.
+INFO 2023-10-25 19:54:44,169 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 19:54:45,831 basehttp 212 "GET /usernames/guotan/count/ HTTP/1.1" 200 41
