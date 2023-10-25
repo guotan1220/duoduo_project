@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-s_cfyn)h41em$6q1=j^m^=jp%ybcfmkf2u-0eptk9q9%_9m%me
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['www.duoduoshop.site', '127.0.0.1']
 
 
 # Application definition
