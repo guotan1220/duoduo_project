@@ -14,15 +14,19 @@ from django.shortcuts import render
 #         1.接收用户名
 #         2.根据用户名查询数据库
 #         3.返回响应
-
 from django.views import View
 from .models import User
 from django.http import JsonResponse
+import re
 class UserNameCountView(View):
-    def get(self, request,username):
+    def get(self, request, username):
         # 1.接收用户名
+        # 如果用户名不满足输入要求，则直接返回错误
+        # if not re.match('[a-zA-Z0-9_-]{5,20}', username):
+        #     return JsonResponse({'code': 200,
+        #                          'errmsg': 'username error!'})
         # 2.根据用户名查询数据库
         count = User.objects.filter(username=username).count()
-        return JsonResponse({'code': '0',
+        return JsonResponse({'code': 0,
                              'count': count,
-                             'errmsg': 'ok'})
+                             'errmsg': 'ok from daguo'})

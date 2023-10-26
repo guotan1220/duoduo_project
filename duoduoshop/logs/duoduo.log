@@ -352,3 +352,101 @@ INFO 2023-10-25 19:52:56,594 basehttp 212 "GET /usernames/guotan/count/ HTTP/1.1
 INFO 2023-10-25 19:54:42,734 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\users\views.py changed, reloading.
 INFO 2023-10-25 19:54:44,169 autoreload 668 Watching for file changes with StatReloader
 INFO 2023-10-25 19:54:45,831 basehttp 212 "GET /usernames/guotan/count/ HTTP/1.1" 200 41
+INFO 2023-10-25 19:58:49,450 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\users\views.py changed, reloading.
+INFO 2023-10-25 19:58:50,846 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 20:00:07,382 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\users\views.py changed, reloading.
+INFO 2023-10-25 20:00:08,810 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 20:01:08,271 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\users\views.py changed, reloading.
+INFO 2023-10-25 20:01:09,679 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 20:01:19,649 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\users\views.py changed, reloading.
+INFO 2023-10-25 20:01:21,054 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 20:01:55,985 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 20:03:28,270 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 20:03:37,893 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 20:03:55,074 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 20:05:03,174 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\duoduoshop\settings.py changed, reloading.
+INFO 2023-10-25 20:05:04,571 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 20:14:36,817 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 20:16:43,702 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 20:23:20,075 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 20:27:41,902 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 20:27:46,474 basehttp 212 "GET /usernames/guotan/count/ HTTP/1.1" 200 39
+INFO 2023-10-25 20:27:49,440 basehttp 212 "GET /usernames/guotan/count/ HTTP/1.1" 200 39
+INFO 2023-10-25 20:28:08,144 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\users\views.py changed, reloading.
+INFO 2023-10-25 20:28:09,640 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 20:28:16,424 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\users\views.py changed, reloading.
+INFO 2023-10-25 20:28:17,937 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 20:33:10,693 basehttp 212 "GET /usernames/guotan/count/ HTTP/1.1" 200 39
+INFO 2023-10-25 20:37:42,688 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\users\views.py changed, reloading.
+INFO 2023-10-25 20:37:44,118 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 20:37:49,040 basehttp 212 "GET /usernames/it/count/ HTTP/1.1" 200 42
+INFO 2023-10-25 20:37:50,783 basehttp 212 "GET /usernames/it/count/ HTTP/1.1" 200 42
+INFO 2023-10-25 20:37:56,754 basehttp 212 "GET /usernames/itttt/count/ HTTP/1.1" 200 42
+INFO 2023-10-25 20:37:59,658 basehttp 212 "GET /usernames/ittttt/count/ HTTP/1.1" 200 42
+INFO 2023-10-25 20:38:28,593 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\users\views.py changed, reloading.
+INFO 2023-10-25 20:38:30,015 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 20:38:32,612 basehttp 212 "GET /usernames/ittttt/count/ HTTP/1.1" 200 42
+INFO 2023-10-25 20:38:33,762 basehttp 212 "GET /usernames/ittttt/count/ HTTP/1.1" 200 42
+INFO 2023-10-25 20:38:46,167 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\users\views.py changed, reloading.
+INFO 2023-10-25 20:38:47,569 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 20:38:49,102 basehttp 212 "GET /usernames/ittttt/count/ HTTP/1.1" 200 39
+INFO 2023-10-25 20:38:51,363 basehttp 212 "GET /usernames/ittttt/count/ HTTP/1.1" 200 39
+INFO 2023-10-25 20:38:53,880 basehttp 212 "GET /usernames/itt/count/ HTTP/1.1" 200 42
+INFO 2023-10-25 20:43:35,881 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\duoduoshop\urls.py changed, reloading.
+INFO 2023-10-25 20:43:37,309 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 20:44:47,307 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\duoduoshop\urls.py changed, reloading.
+INFO 2023-10-25 20:44:48,745 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 20:45:00,892 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\duoduoshop\urls.py changed, reloading.
+INFO 2023-10-25 20:45:02,291 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 20:46:15,575 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\duoduoshop\urls.py changed, reloading.
+INFO 2023-10-25 20:46:17,002 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 20:46:31,776 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\users\views.py changed, reloading.
+INFO 2023-10-25 20:46:33,209 autoreload 668 Watching for file changes with StatReloader
+WARNING 2023-10-25 20:46:35,513 log 241 Not Found: /usernames/itt/count/
+WARNING 2023-10-25 20:46:35,513 basehttp 212 "GET /usernames/itt/count/ HTTP/1.1" 404 2330
+WARNING 2023-10-25 20:46:42,253 log 241 Not Found: /usernames/itt/count/
+WARNING 2023-10-25 20:46:42,253 basehttp 212 "GET /usernames/itt/count/ HTTP/1.1" 404 2330
+WARNING 2023-10-25 20:46:46,029 log 241 Not Found: /usernames/ittttt/count/
+WARNING 2023-10-25 20:46:46,029 basehttp 212 "GET /usernames/ittttt/count/ HTTP/1.1" 404 2339
+WARNING 2023-10-25 20:46:47,594 log 241 Not Found: /usernames/ittttt/count/
+WARNING 2023-10-25 20:46:47,595 basehttp 212 "GET /usernames/ittttt/count/ HTTP/1.1" 404 2339
+INFO 2023-10-25 20:49:46,699 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\users\urls.py changed, reloading.
+INFO 2023-10-25 20:49:48,124 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 20:49:54,192 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\users\urls.py changed, reloading.
+INFO 2023-10-25 20:49:55,601 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 20:50:04,477 basehttp 212 "GET /usernames/ittttt/count/ HTTP/1.1" 200 39
+WARNING 2023-10-25 20:50:08,486 log 241 Not Found: /usernames/ittt/count/
+WARNING 2023-10-25 20:50:08,487 basehttp 212 "GET /usernames/ittt/count/ HTTP/1.1" 404 2333
+INFO 2023-10-25 21:09:10,950 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\duoduoshop\settings.py changed, reloading.
+INFO 2023-10-25 21:09:12,344 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 21:16:54,459 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 21:18:16,445 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 21:19:56,786 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 21:20:14,487 autoreload 668 Watching for file changes with StatReloader
+WARNING 2023-10-25 21:20:18,758 log 241 Not Found: /
+WARNING 2023-10-25 21:20:18,759 basehttp 212 "GET / HTTP/1.1" 404 2262
+WARNING 2023-10-25 21:20:26,206 log 241 Not Found: /users
+WARNING 2023-10-25 21:20:26,207 basehttp 212 "GET /users HTTP/1.1" 404 2295
+WARNING 2023-10-25 21:20:29,081 log 241 Not Found: /user
+WARNING 2023-10-25 21:20:29,082 basehttp 212 "GET /user HTTP/1.1" 404 2292
+WARNING 2023-10-25 21:21:34,669 log 241 Not Found: /usernames/ittt/count/
+WARNING 2023-10-25 21:21:34,669 basehttp 212 "GET /usernames/ittt/count/ HTTP/1.1" 404 2333
+INFO 2023-10-25 21:21:39,327 basehttp 212 "GET /usernames/itttt/count/ HTTP/1.1" 200 39
+INFO 2023-10-25 21:24:23,964 autoreload 668 Watching for file changes with StatReloader
+WARNING 2023-10-25 21:27:48,079 log 241 Not Found: /
+WARNING 2023-10-25 21:27:48,080 basehttp 212 "GET / HTTP/1.1" 404 2252
+INFO 2023-10-25 21:29:51,304 basehttp 212 "GET /usernames/itttt/count/ HTTP/1.1" 200 39
+INFO 2023-10-25 21:29:58,073 basehttp 212 "GET /usernames/itttt/count/ HTTP/1.1" 200 39
+WARNING 2023-10-25 21:34:42,246 log 241 Not Found: /image_codes/6d730584-2253-4df1-9624-dadbb5f32ee7/
+WARNING 2023-10-25 21:34:42,247 basehttp 212 "GET /image_codes/6d730584-2253-4df1-9624-dadbb5f32ee7/ HTTP/1.1" 404 2417
+INFO 2023-10-25 21:34:51,808 basehttp 212 "GET /usernames/guotan/count/ HTTP/1.1" 200 39
+WARNING 2023-10-25 21:35:00,732 log 241 Not Found: /image_codes/908eda6e-f5d8-43f1-bbb1-4bc558ce093b/
+WARNING 2023-10-25 21:35:00,733 basehttp 212 "GET /image_codes/908eda6e-f5d8-43f1-bbb1-4bc558ce093b/ HTTP/1.1" 404 2417
+INFO 2023-10-25 21:35:39,507 basehttp 212 "GET /usernames/guotan/count/ HTTP/1.1" 200 39
+INFO 2023-10-25 21:35:41,534 basehttp 212 "GET /usernames/guotan/count/ HTTP/1.1" 200 39
+INFO 2023-10-25 21:35:46,101 basehttp 212 "GET /usernames/guotan/count/ HTTP/1.1" 200 39
+INFO 2023-10-25 21:35:48,020 basehttp 212 "GET /usernames/guotan/count/ HTTP/1.1" 200 39
+INFO 2023-10-25 21:37:11,644 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\users\views.py changed, reloading.
+INFO 2023-10-25 21:37:13,142 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-25 21:37:17,444 basehttp 212 "GET /usernames/guotan/count/ HTTP/1.1" 200 50
+INFO 2023-10-25 21:37:19,203 basehttp 212 "GET /usernames/guotan/count/ HTTP/1.1" 200 50

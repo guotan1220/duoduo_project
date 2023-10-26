@@ -18,20 +18,10 @@ from django.contrib import admin
 from django.urls import path, include
 from django.http import HttpResponse
 
-def log(request):
-    # 1.导入loging
-    import logging
-    # 2.创建日志
-    logger = logging.getLogger('django')
-    # 3.调用日志器的方法来保存日志
-    logger.info('用户登陆了')
-    print('hello')
-    logger.warning('redis缓存不足')
-    logger.error('该记录不存在')
-    logger.debug('~~~~~~~~~~~~')
-    return HttpResponse('log')
+from utils.converters import UsernameConverter
+from django.urls import register_converter
+register_converter(UsernameConverter, 'username')
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('log/', log),
     path('', include('Myapps.users.urls'))
 ]
