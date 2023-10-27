@@ -1285,3 +1285,58 @@ WARNING 2023-10-27 18:15:49,960 basehttp 212 "GET /mobiles/13311111117/count/ HT
 INFO 2023-10-27 18:15:51,615 basehttp 81 - Broken pipe from ('127.0.0.1', 62941)
 WARNING 2023-10-27 18:17:10,377 log 241 Not Found: /mobiles/13311111117/count/
 WARNING 2023-10-27 18:17:10,378 basehttp 212 "GET /mobiles/13311111117/count/ HTTP/1.1" 404 2865
+INFO 2023-10-27 21:45:20,246 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\verification\views.py changed, reloading.
+INFO 2023-10-27 21:45:23,190 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 21:48:49,845 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\verification\views.py changed, reloading.
+INFO 2023-10-27 21:48:52,703 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 23:03:13,298 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\users\views.py changed, reloading.
+INFO 2023-10-27 23:03:16,075 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 23:04:00,808 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\users\views.py changed, reloading.
+INFO 2023-10-27 23:04:03,461 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 23:05:00,630 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\users\views.py changed, reloading.
+INFO 2023-10-27 23:05:03,336 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 23:08:35,138 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\users\views.py changed, reloading.
+INFO 2023-10-27 23:08:37,809 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 23:14:32,138 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\users\views.py changed, reloading.
+INFO 2023-10-27 23:14:34,953 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 23:30:53,433 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\users\views.py changed, reloading.
+INFO 2023-10-27 23:30:56,512 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 23:35:24,933 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\users\views.py changed, reloading.
+INFO 2023-10-27 23:35:27,612 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 23:35:46,565 basehttp 212 "OPTIONS /login/ HTTP/1.1" 200 0
+ERROR 2023-10-27 23:36:49,608 log 241 Internal Server Error: /login/
+Traceback (most recent call last):
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    self.check_response(response, callback)
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\core\handlers\base.py", line 332, in check_response
+    raise ValueError(
+ValueError: The view Myapps.users.views.view didn't return an HttpResponse object. It returned None instead.
+ERROR 2023-10-27 23:36:49,616 basehttp 212 "POST /login/ HTTP/1.1" 500 72242
+ERROR 2023-10-27 23:37:28,495 log 241 Internal Server Error: /login/
+Traceback (most recent call last):
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    self.check_response(response, callback)
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\core\handlers\base.py", line 332, in check_response
+    raise ValueError(
+ValueError: The view Myapps.users.views.view didn't return an HttpResponse object. It returned None instead.
+ERROR 2023-10-27 23:37:28,497 basehttp 212 "POST /login/ HTTP/1.1" 500 71794
+INFO 2023-10-27 23:38:17,111 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\users\views.py changed, reloading.
+INFO 2023-10-27 23:38:19,884 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 23:38:22,857 basehttp 212 "POST /login/ HTTP/1.1" 200 38
+WARNING 2023-10-27 23:38:23,717 log 241 Not Found: /carts/simple/
+WARNING 2023-10-27 23:38:23,719 basehttp 212 "GET /carts/simple/ HTTP/1.1" 404 2979
+WARNING 2023-10-27 23:38:39,683 log 241 Not Found: /addresses/
+WARNING 2023-10-27 23:38:39,684 basehttp 212 "GET /addresses/ HTTP/1.1" 404 2970
+WARNING 2023-10-27 23:38:39,688 log 241 Not Found: /areas/
+WARNING 2023-10-27 23:38:39,689 basehttp 212 "GET /areas/ HTTP/1.1" 404 2958
+WARNING 2023-10-27 23:38:42,612 log 241 Not Found: /info/
+WARNING 2023-10-27 23:38:42,615 log 241 Not Found: /browse_histories/
+WARNING 2023-10-27 23:38:42,616 basehttp 212 "GET /info/ HTTP/1.1" 404 2955
+WARNING 2023-10-27 23:38:42,617 basehttp 212 "GET /browse_histories/ HTTP/1.1" 404 2991
+INFO 2023-10-27 23:38:48,020 basehttp 212 "POST /login/ HTTP/1.1" 200 38
+WARNING 2023-10-27 23:38:48,793 log 241 Not Found: /carts/simple/
+WARNING 2023-10-27 23:38:48,794 basehttp 212 "GET /carts/simple/ HTTP/1.1" 404 2979

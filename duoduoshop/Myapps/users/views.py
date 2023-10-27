@@ -1,4 +1,3 @@
-
 from django.shortcuts import render
 
 # Create your views here.
@@ -55,6 +54,7 @@ class UserNameCountView(View):
 #         4.数据入库
 #         5.返回响应
 import json
+
 
 class RegisterView(View):
     def post(self, request):
@@ -120,9 +120,51 @@ class RegisterView(View):
     from django.contrib.auth import login
     login(request, user)
 """
+"""
+用户登陆的实现
+前端：通过post将用户名与密码通过axios发送到后端
+后端：
+    请求：接收数据、验证数据
+    业务逻辑：验证用户名，密码是否与数据库一致，然后实现状态保持（session）
+    响应：返回json数据，成功0，失败400
+步骤：
+    1.接收数据
+    2.验证数据
+    3.验证用户名密码是否正确
+    4.session
+    5.判断是否记住登录
+    6.返回响应
+"""
 
-"""
-图形验证码流程;
-    前端：发送请求，uuid
-    
-"""
+
+class LoginView(View):
+    def post(self, request):
+        ####################
+        data = json.loads(request.body.decode())
+        username = data.get('username')
+        password = data.get('password')
+        remembered = data.get('remembered')
+        #####################
+        if not all([username, password]):
+            return JsonResponse({'code': 400,
+                                 'errmsg': '参数不全'})
+        # 系统提供了一个验证用户名密码的方法
+        # 使用authenticate方法，如果验证通过则拿到用户信息，不正确则返回none
+        from django.contrib.auth import authenticate
+        user = authenticate(username=username, password=password)
+        if not user:
+            return JsonResponse({'code': 400,
+                                 'errmsg': '账号或密码输入错误'})
+        #######################
+        from django.contrib.auth import login
+        login(request, user)
+        #######################
+        # #记住登录=天内免登录
+        if remembered is not None:
+            # session有效时间具体问题具体分析
+            request.session.set_expiry(None)
+        else:
+            # 设置0 则退出浏览器则过期
+            request.session.set_expiry(0)
+        return JsonResponse({'code': 0,
+                             'errmsg': 'ok from daguo'})

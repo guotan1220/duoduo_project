@@ -74,3 +74,10 @@ class CmsCodeView(View):
         # 7.返回响应
         return JsonResponse({'code': 0,
                              'errmsg': 'ok'})
+
+"""
+中间人
+生产者
+消费者
+使用Celery实现前三者
+"""
