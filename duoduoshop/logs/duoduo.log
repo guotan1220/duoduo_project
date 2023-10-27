@@ -1340,3 +1340,46 @@ WARNING 2023-10-27 23:38:42,617 basehttp 212 "GET /browse_histories/ HTTP/1.1" 4
 INFO 2023-10-27 23:38:48,020 basehttp 212 "POST /login/ HTTP/1.1" 200 38
 WARNING 2023-10-27 23:38:48,793 log 241 Not Found: /carts/simple/
 WARNING 2023-10-27 23:38:48,794 basehttp 212 "GET /carts/simple/ HTTP/1.1" 404 2979
+INFO 2023-10-27 23:55:17,649 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\users\views.py changed, reloading.
+INFO 2023-10-27 23:55:20,484 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 23:55:40,063 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\users\views.py changed, reloading.
+INFO 2023-10-27 23:55:42,775 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 23:56:21,115 basehttp 212 "POST /login/ HTTP/1.1" 200 38
+WARNING 2023-10-27 23:56:21,925 log 241 Not Found: /carts/simple/
+WARNING 2023-10-27 23:56:21,927 basehttp 212 "GET /carts/simple/ HTTP/1.1" 404 2979
+INFO 2023-10-27 23:57:02,501 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 23:57:10,161 basehttp 212 "POST /login/ HTTP/1.1" 200 38
+WARNING 2023-10-27 23:57:11,992 log 241 Not Found: /carts/simple/
+WARNING 2023-10-27 23:57:11,993 basehttp 212 "GET /carts/simple/ HTTP/1.1" 404 2979
+INFO 2023-10-27 23:57:21,248 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 23:59:32,495 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\users\views.py changed, reloading.
+INFO 2023-10-27 23:59:35,265 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-28 00:05:37,685 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\users\views.py changed, reloading.
+INFO 2023-10-28 00:05:40,340 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-28 00:06:06,393 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\users\views.py changed, reloading.
+INFO 2023-10-28 00:06:09,039 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-28 00:07:53,547 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-28 00:08:01,187 basehttp 212 "POST /login/ HTTP/1.1" 200 38
+WARNING 2023-10-28 00:08:01,998 log 241 Not Found: /carts/simple/
+WARNING 2023-10-28 00:08:02,000 basehttp 212 "GET /carts/simple/ HTTP/1.1" 404 2979
+INFO 2023-10-28 00:08:53,659 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\users\views.py changed, reloading.
+INFO 2023-10-28 00:08:56,439 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-28 00:08:57,436 basehttp 212 "OPTIONS /logout/ HTTP/1.1" 200 0
+WARNING 2023-10-28 00:08:57,500 log 241 Not Found: /logout/
+WARNING 2023-10-28 00:08:57,501 basehttp 212 "DELETE /logout/ HTTP/1.1" 404 2964
+WARNING 2023-10-28 00:08:58,283 log 241 Not Found: /logout/
+WARNING 2023-10-28 00:08:58,284 basehttp 212 "DELETE /logout/ HTTP/1.1" 404 2964
+WARNING 2023-10-28 00:08:59,599 log 241 Not Found: /logout/
+WARNING 2023-10-28 00:08:59,600 basehttp 212 "DELETE /logout/ HTTP/1.1" 404 2964
+WARNING 2023-10-28 00:09:00,854 log 241 Not Found: /info/
+WARNING 2023-10-28 00:09:00,854 basehttp 212 "GET /info/ HTTP/1.1" 404 2955
+WARNING 2023-10-28 00:09:00,860 log 241 Not Found: /browse_histories/
+WARNING 2023-10-28 00:09:00,861 basehttp 212 "GET /browse_histories/ HTTP/1.1" 404 2991
+WARNING 2023-10-28 00:09:10,159 log 241 Not Found: /carts/
+WARNING 2023-10-28 00:09:10,160 basehttp 212 "GET /carts/ HTTP/1.1" 404 2958
+WARNING 2023-10-28 00:09:14,608 log 241 Not Found: /info/
+WARNING 2023-10-28 00:09:14,613 log 241 Not Found: /browse_histories/
+WARNING 2023-10-28 00:09:14,614 basehttp 212 "GET /info/ HTTP/1.1" 404 2955
+WARNING 2023-10-28 00:09:14,614 basehttp 212 "GET /browse_histories/ HTTP/1.1" 404 2991
+WARNING 2023-10-28 00:09:22,216 log 241 Not Found: /carts/simple/
+WARNING 2023-10-28 00:09:22,217 basehttp 212 "GET /carts/simple/ HTTP/1.1" 404 2979

@@ -148,6 +148,14 @@ class LoginView(View):
         if not all([username, password]):
             return JsonResponse({'code': 400,
                                  'errmsg': '参数不全'})
+        #########################
+        # 有些时候，用户可以自行选择通过用户名或者手机号进行登录
+        # 这时候，系统默认的USERNAME_FILED为username字段
+        # 可以通过获取的登录信息，去修改这个字段，使得authenticate可以通过USERNAME_FILED对用户与密码进行比对,然后返回user或者none
+        if re.match('1[3-9]\d{9}', username):
+            User.USERNAME_FIELD = 'mobile'
+        else:
+            User.USERNAME_FIELD = 'username'
         # 系统提供了一个验证用户名密码的方法
         # 使用authenticate方法，如果验证通过则拿到用户信息，不正确则返回none
         from django.contrib.auth import authenticate
@@ -166,5 +174,8 @@ class LoginView(View):
         else:
             # 设置0 则退出浏览器则过期
             request.session.set_expiry(0)
-        return JsonResponse({'code': 0,
+        response = JsonResponse({'code': 0,
                              'errmsg': 'ok from daguo'})
+        # 这里的cookie主要是为了主页显示用户名
+        response.set_cookie('username', user.username)
+        return response
