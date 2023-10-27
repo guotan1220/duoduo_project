@@ -450,3 +450,512 @@ INFO 2023-10-25 21:37:11,644 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_
 INFO 2023-10-25 21:37:13,142 autoreload 668 Watching for file changes with StatReloader
 INFO 2023-10-25 21:37:17,444 basehttp 212 "GET /usernames/guotan/count/ HTTP/1.1" 200 50
 INFO 2023-10-25 21:37:19,203 basehttp 212 "GET /usernames/guotan/count/ HTTP/1.1" 200 50
+INFO 2023-10-26 22:12:43,897 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-26 22:16:56,326 autoreload 668 Watching for file changes with StatReloader
+WARNING 2023-10-26 22:17:35,864 log 241 Not Found: /
+WARNING 2023-10-26 22:17:35,864 basehttp 212 "GET / HTTP/1.1" 404 2252
+WARNING 2023-10-26 22:17:35,881 log 241 Not Found: /
+WARNING 2023-10-26 22:17:35,883 basehttp 212 "GET / HTTP/1.1" 404 2252
+WARNING 2023-10-26 22:17:36,135 log 241 Not Found: /favicon.ico
+WARNING 2023-10-26 22:17:36,136 basehttp 212 "GET /favicon.ico HTTP/1.1" 404 2303
+INFO 2023-10-26 22:19:03,823 basehttp 212 "GET /usernames/guotan/count/ HTTP/1.1" 200 50
+WARNING 2023-10-26 22:19:09,450 log 241 Not Found: /usernames/g/tan/count/
+WARNING 2023-10-26 22:19:09,451 basehttp 212 "GET /usernames/g/tan/count/ HTTP/1.1" 404 2336
+WARNING 2023-10-26 22:19:14,165 log 241 Not Found: /usernames/gtan/count/
+WARNING 2023-10-26 22:19:14,165 basehttp 212 "GET /usernames/gtan/count/ HTTP/1.1" 404 2333
+INFO 2023-10-26 22:22:05,766 basehttp 212 "GET /usernames/guotan/count/ HTTP/1.1" 200 50
+WARNING 2023-10-26 22:33:24,077 log 241 Not Found: /carts/simple/
+WARNING 2023-10-26 22:33:24,077 basehttp 212 "GET /carts/simple/ HTTP/1.1" 404 2319
+WARNING 2023-10-26 22:33:53,081 log 241 Not Found: /carts/simple/
+WARNING 2023-10-26 22:33:53,081 basehttp 212 "GET /carts/simple/ HTTP/1.1" 404 2319
+WARNING 2023-10-26 22:33:57,020 log 241 Not Found: /list/115/skus/
+WARNING 2023-10-26 22:33:57,021 basehttp 212 "GET /list/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 404 2371
+WARNING 2023-10-26 22:33:57,023 log 241 Not Found: /hot/115/
+WARNING 2023-10-26 22:33:57,025 log 241 Not Found: /carts/simple/
+WARNING 2023-10-26 22:33:57,026 basehttp 212 "GET /hot/115/ HTTP/1.1" 404 2304
+WARNING 2023-10-26 22:33:57,026 basehttp 212 "GET /carts/simple/ HTTP/1.1" 404 2319
+WARNING 2023-10-26 22:33:59,765 log 241 Not Found: /list/115/skus/
+WARNING 2023-10-26 22:33:59,765 basehttp 212 "GET /list/115/skus/?page=1&page_size=5&ordering=price HTTP/1.1" 404 2364
+WARNING 2023-10-26 22:34:00,227 log 241 Not Found: /list/115/skus/
+WARNING 2023-10-26 22:34:00,227 basehttp 212 "GET /list/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 404 2371
+WARNING 2023-10-26 22:34:01,067 log 241 Not Found: /list/115/skus/
+WARNING 2023-10-26 22:34:01,068 basehttp 212 "GET /list/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 404 2371
+WARNING 2023-10-26 22:34:01,069 log 241 Not Found: /hot/115/
+WARNING 2023-10-26 22:34:01,072 log 241 Not Found: /carts/simple/
+WARNING 2023-10-26 22:34:01,072 basehttp 212 "GET /hot/115/ HTTP/1.1" 404 2304
+WARNING 2023-10-26 22:34:01,073 basehttp 212 "GET /carts/simple/ HTTP/1.1" 404 2319
+WARNING 2023-10-26 22:34:06,015 log 241 Not Found: /carts/simple/
+WARNING 2023-10-26 22:34:06,015 basehttp 212 "GET /carts/simple/ HTTP/1.1" 404 2319
+WARNING 2023-10-26 22:36:20,801 log 241 Not Found: /image_codes/48e7a567-18cc-44a0-b34c-3087075caa06/
+WARNING 2023-10-26 22:36:20,802 basehttp 212 "GET /image_codes/48e7a567-18cc-44a0-b34c-3087075caa06/ HTTP/1.1" 404 2427
+INFO 2023-10-26 22:44:00,042 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\users\views.py changed, reloading.
+INFO 2023-10-26 22:44:02,163 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-26 22:54:30,557 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\users\views.py changed, reloading.
+INFO 2023-10-26 22:54:32,182 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-26 22:56:40,505 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\users\views.py changed, reloading.
+INFO 2023-10-26 22:56:41,882 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-26 22:58:08,153 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\users\views.py changed, reloading.
+INFO 2023-10-26 22:58:09,600 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-26 23:03:49,633 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\users\views.py changed, reloading.
+INFO 2023-10-26 23:03:51,143 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-26 23:04:40,925 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\users\views.py changed, reloading.
+INFO 2023-10-26 23:04:42,319 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-26 23:06:16,259 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\users\views.py changed, reloading.
+INFO 2023-10-26 23:06:17,629 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-26 23:06:39,431 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\users\views.py changed, reloading.
+INFO 2023-10-26 23:06:40,841 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-26 23:06:53,575 basehttp 212 "GET /usernames/guotan/count/ HTTP/1.1" 200 50
+INFO 2023-10-26 23:06:53,694 basehttp 212 "GET /usernames/guotan/count/ HTTP/1.1" 200 50
+INFO 2023-10-26 23:06:54,925 basehttp 212 "GET /usernames/guotan/count/ HTTP/1.1" 200 50
+INFO 2023-10-26 23:06:55,859 basehttp 212 "GET /usernames/guotan/count/ HTTP/1.1" 200 50
+WARNING 2023-10-26 23:07:18,768 log 241 Not Found: /mobiles/18687529472/count/
+WARNING 2023-10-26 23:07:18,769 basehttp 212 "GET /mobiles/18687529472/count/ HTTP/1.1" 404 2358
+INFO 2023-10-26 23:07:23,180 basehttp 212 "OPTIONS /register/ HTTP/1.1" 200 0
+INFO 2023-10-26 23:07:23,183 basehttp 212 "GET /usernames/guotan/count/ HTTP/1.1" 200 50
+WARNING 2023-10-26 23:07:23,194 log 241 Not Found: /mobiles/18687529472/count/
+WARNING 2023-10-26 23:07:23,195 basehttp 212 "GET /mobiles/18687529472/count/ HTTP/1.1" 404 2358
+WARNING 2023-10-26 23:07:23,205 log 241 Not Found: /register/
+WARNING 2023-10-26 23:07:23,206 basehttp 212 "POST /register/ HTTP/1.1" 404 2308
+INFO 2023-10-26 23:08:14,496 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\users\urls.py changed, reloading.
+INFO 2023-10-26 23:08:15,868 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-26 23:09:04,524 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\users\views.py changed, reloading.
+INFO 2023-10-26 23:09:05,977 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-26 23:09:25,199 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\users\views.py changed, reloading.
+INFO 2023-10-26 23:09:26,594 autoreload 668 Watching for file changes with StatReloader
+WARNING 2023-10-26 23:09:28,701 log 241 Forbidden (Origin checking failed - http://www.duoduoshop.site:8080 does not match any trusted origins.): /register/
+WARNING 2023-10-26 23:09:28,704 basehttp 212 "POST /register/ HTTP/1.1" 403 2574
+INFO 2023-10-26 23:09:28,707 basehttp 212 "GET /usernames/guotan/count/ HTTP/1.1" 200 50
+WARNING 2023-10-26 23:09:28,721 log 241 Not Found: /mobiles/18687529472/count/
+WARNING 2023-10-26 23:09:28,721 basehttp 212 "GET /mobiles/18687529472/count/ HTTP/1.1" 404 2514
+WARNING 2023-10-26 23:09:52,464 log 241 Forbidden (Origin checking failed - http://www.duoduoshop.site:8080 does not match any trusted origins.): /register/
+WARNING 2023-10-26 23:09:52,467 basehttp 212 "POST /register/ HTTP/1.1" 403 2574
+INFO 2023-10-26 23:09:52,470 basehttp 212 "GET /usernames/guotan/count/ HTTP/1.1" 200 50
+WARNING 2023-10-26 23:09:52,480 log 241 Not Found: /mobiles/18687529472/count/
+WARNING 2023-10-26 23:09:52,480 basehttp 212 "GET /mobiles/18687529472/count/ HTTP/1.1" 404 2514
+WARNING 2023-10-26 23:09:53,025 log 241 Forbidden (Origin checking failed - http://www.duoduoshop.site:8080 does not match any trusted origins.): /register/
+WARNING 2023-10-26 23:09:53,030 basehttp 212 "POST /register/ HTTP/1.1" 403 2574
+INFO 2023-10-26 23:09:53,033 basehttp 212 "GET /usernames/guotan/count/ HTTP/1.1" 200 50
+WARNING 2023-10-26 23:09:53,043 log 241 Not Found: /mobiles/18687529472/count/
+WARNING 2023-10-26 23:09:53,043 basehttp 212 "GET /mobiles/18687529472/count/ HTTP/1.1" 404 2514
+WARNING 2023-10-26 23:09:53,443 log 241 Forbidden (Origin checking failed - http://www.duoduoshop.site:8080 does not match any trusted origins.): /register/
+WARNING 2023-10-26 23:09:53,446 basehttp 212 "POST /register/ HTTP/1.1" 403 2574
+WARNING 2023-10-26 23:09:53,456 log 241 Not Found: /mobiles/18687529472/count/
+WARNING 2023-10-26 23:09:53,457 basehttp 212 "GET /mobiles/18687529472/count/ HTTP/1.1" 404 2514
+INFO 2023-10-26 23:09:53,461 basehttp 212 "GET /usernames/guotan/count/ HTTP/1.1" 200 50
+INFO 2023-10-26 23:10:17,684 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\users\urls.py changed, reloading.
+INFO 2023-10-26 23:10:19,068 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-26 23:10:21,495 basehttp 212 "GET /usernames/guotan/count/ HTTP/1.1" 200 50
+WARNING 2023-10-26 23:10:21,516 log 241 Not Found: /mobiles/18687529472/count/
+WARNING 2023-10-26 23:10:21,516 basehttp 212 "GET /mobiles/18687529472/count/ HTTP/1.1" 404 2522
+WARNING 2023-10-26 23:10:21,518 log 241 Not Found: /register/
+WARNING 2023-10-26 23:10:21,519 basehttp 212 "POST /register/ HTTP/1.1" 404 2472
+INFO 2023-10-26 23:12:57,028 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\users\views.py changed, reloading.
+INFO 2023-10-26 23:12:58,442 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-26 23:15:30,428 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\users\views.py changed, reloading.
+INFO 2023-10-26 23:15:31,918 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-26 23:18:26,085 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\users\views.py changed, reloading.
+INFO 2023-10-26 23:18:27,493 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-26 23:18:58,671 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\users\views.py changed, reloading.
+INFO 2023-10-26 23:19:00,041 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-26 23:20:13,768 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\users\views.py changed, reloading.
+INFO 2023-10-26 23:20:15,137 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-26 23:21:50,613 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\users\views.py changed, reloading.
+INFO 2023-10-26 23:21:52,002 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-26 23:24:11,181 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\users\views.py changed, reloading.
+INFO 2023-10-26 23:24:12,585 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-26 23:26:19,759 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\users\views.py changed, reloading.
+INFO 2023-10-26 23:26:21,258 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-26 23:28:40,541 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\users\views.py changed, reloading.
+INFO 2023-10-26 23:28:41,959 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-26 23:43:02,244 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\users\views.py changed, reloading.
+INFO 2023-10-26 23:43:03,736 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-26 23:49:05,634 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\users\views.py changed, reloading.
+INFO 2023-10-26 23:49:07,073 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-26 23:51:22,825 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\users\views.py changed, reloading.
+INFO 2023-10-26 23:51:24,223 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-26 23:53:07,742 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\users\views.py changed, reloading.
+INFO 2023-10-26 23:53:09,123 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-26 23:55:29,735 basehttp 212 "GET /usernames/guotan/count/ HTTP/1.1" 200 50
+WARNING 2023-10-26 23:55:46,804 log 241 Not Found: /image_codes/fcd10ca8-c6fa-4e17-9a08-674e3635eb35/
+WARNING 2023-10-26 23:55:46,805 basehttp 212 "GET /image_codes/fcd10ca8-c6fa-4e17-9a08-674e3635eb35/ HTTP/1.1" 404 2583
+INFO 2023-10-26 23:55:51,838 basehttp 212 "GET /usernames/guotan/count/ HTTP/1.1" 200 50
+INFO 2023-10-26 23:55:56,906 basehttp 212 "GET /usernames/guotan/count/ HTTP/1.1" 200 50
+INFO 2023-10-26 23:55:58,190 basehttp 212 "GET /usernames/guotan/count/ HTTP/1.1" 200 50
+WARNING 2023-10-26 23:56:22,040 log 241 Not Found: /image_codes/fe534085-00f0-45f2-ba07-d7a2ad834ee0/
+WARNING 2023-10-26 23:56:22,041 basehttp 212 "GET /image_codes/fe534085-00f0-45f2-ba07-d7a2ad834ee0/ HTTP/1.1" 404 2583
+INFO 2023-10-26 23:56:24,745 basehttp 212 "GET /usernames/guotan/count/ HTTP/1.1" 200 50
+WARNING 2023-10-26 23:56:38,299 log 241 Not Found: /mobiles/18687529472/count/
+WARNING 2023-10-26 23:56:38,300 basehttp 212 "GET /mobiles/18687529472/count/ HTTP/1.1" 404 2514
+INFO 2023-10-26 23:56:41,502 basehttp 212 "GET /usernames/guotan/count/ HTTP/1.1" 200 50
+WARNING 2023-10-26 23:56:41,507 log 241 Forbidden (Origin checking failed - http://www.duoduoshop.site:8080 does not match any trusted origins.): /register/
+WARNING 2023-10-26 23:56:41,511 basehttp 212 "POST /register/ HTTP/1.1" 403 2574
+WARNING 2023-10-26 23:56:41,517 log 241 Not Found: /mobiles/18687529472/count/
+WARNING 2023-10-26 23:56:41,517 basehttp 212 "GET /mobiles/18687529472/count/ HTTP/1.1" 404 2514
+WARNING 2023-10-27 00:01:21,783 log 241 Forbidden (CSRF cookie not set.): /register/
+WARNING 2023-10-27 00:01:21,783 basehttp 212 "POST /register/ HTTP/1.1" 403 2801
+INFO 2023-10-27 00:02:12,181 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\duoduoshop\settings.py changed, reloading.
+INFO 2023-10-27 00:02:13,566 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 00:02:38,498 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\users\views.py changed, reloading.
+INFO 2023-10-27 00:02:39,899 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 00:03:17,700 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\users\views.py changed, reloading.
+INFO 2023-10-27 00:03:19,120 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 00:03:50,645 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\users\views.py changed, reloading.
+INFO 2023-10-27 00:03:52,051 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 00:11:14,938 basehttp 212 "POST /register/ HTTP/1.1" 200 46
+INFO 2023-10-27 00:11:14,945 basehttp 212 "GET /usernames/guotan/count/ HTTP/1.1" 200 50
+WARNING 2023-10-27 00:11:14,957 log 241 Not Found: /mobiles/18687529472/count/
+WARNING 2023-10-27 00:11:14,959 basehttp 212 "GET /mobiles/18687529472/count/ HTTP/1.1" 404 2514
+INFO 2023-10-27 00:11:20,909 basehttp 212 "POST /register/ HTTP/1.1" 200 46
+INFO 2023-10-27 00:11:20,912 basehttp 212 "GET /usernames/guotan/count/ HTTP/1.1" 200 50
+WARNING 2023-10-27 00:11:20,921 log 241 Not Found: /mobiles/18687529472/count/
+WARNING 2023-10-27 00:11:20,921 basehttp 212 "GET /mobiles/18687529472/count/ HTTP/1.1" 404 2514
+INFO 2023-10-27 00:11:24,412 basehttp 212 "GET /usernames/guotan/count/ HTTP/1.1" 200 50
+INFO 2023-10-27 00:12:40,207 basehttp 212 "GET /usernames/guotan/count/ HTTP/1.1" 200 50
+INFO 2023-10-27 00:12:50,894 basehttp 212 "GET /usernames/guotan/count/ HTTP/1.1" 200 50
+WARNING 2023-10-27 00:12:52,951 log 241 Not Found: /mobiles/18687529472/count/
+WARNING 2023-10-27 00:12:52,952 basehttp 212 "GET /mobiles/18687529472/count/ HTTP/1.1" 404 2514
+INFO 2023-10-27 00:12:56,733 basehttp 212 "GET /usernames/guotan/count/ HTTP/1.1" 200 50
+INFO 2023-10-27 00:12:57,430 basehttp 212 "GET /usernames/guotan/count/ HTTP/1.1" 200 50
+INFO 2023-10-27 00:13:01,335 basehttp 212 "GET /usernames/guotan/count/ HTTP/1.1" 200 50
+INFO 2023-10-27 00:13:01,986 basehttp 212 "GET /usernames/guotan/count/ HTTP/1.1" 200 50
+WARNING 2023-10-27 00:13:05,170 log 241 Not Found: /mobiles/18687529472/count/
+WARNING 2023-10-27 00:13:05,171 basehttp 212 "GET /mobiles/18687529472/count/ HTTP/1.1" 404 2514
+INFO 2023-10-27 00:13:05,226 basehttp 212 "POST /register/ HTTP/1.1" 200 46
+INFO 2023-10-27 00:13:05,231 basehttp 212 "GET /usernames/guotan/count/ HTTP/1.1" 200 50
+WARNING 2023-10-27 00:13:05,240 log 241 Not Found: /mobiles/18687529472/count/
+WARNING 2023-10-27 00:13:05,241 basehttp 212 "GET /mobiles/18687529472/count/ HTTP/1.1" 404 2514
+WARNING 2023-10-27 00:13:16,504 log 241 Not Found: /image_codes/56a4b5cd-d21a-4417-a31c-a6090273c528/
+WARNING 2023-10-27 00:13:16,504 basehttp 212 "GET /image_codes/56a4b5cd-d21a-4417-a31c-a6090273c528/ HTTP/1.1" 404 2583
+WARNING 2023-10-27 00:13:26,195 log 241 Not Found: /image_codes/5434becf-f996-490e-8de1-88e257166c37/
+WARNING 2023-10-27 00:13:26,195 basehttp 212 "GET /image_codes/5434becf-f996-490e-8de1-88e257166c37/ HTTP/1.1" 404 2583
+INFO 2023-10-27 00:13:28,486 basehttp 212 "GET /usernames/guotan/count/ HTTP/1.1" 200 50
+INFO 2023-10-27 00:35:05,324 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 00:36:59,278 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 00:38:34,995 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 00:41:03,035 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 00:47:18,588 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 00:50:13,910 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 00:53:40,135 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 00:55:09,562 basehttp 212 "POST /register/ HTTP/1.1" 200 55
+INFO 2023-10-27 00:55:16,251 basehttp 212 "POST /register/ HTTP/1.1" 200 55
+INFO 2023-10-27 00:55:17,813 basehttp 212 "POST /register/ HTTP/1.1" 200 55
+INFO 2023-10-27 00:55:19,174 basehttp 212 "POST /register/ HTTP/1.1" 200 55
+INFO 2023-10-27 00:55:29,994 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 00:55:35,952 basehttp 212 "POST /register/ HTTP/1.1" 200 55
+INFO 2023-10-27 00:55:39,232 basehttp 212 "POST /register/ HTTP/1.1" 200 55
+INFO 2023-10-27 00:56:27,107 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 00:56:59,166 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 00:57:01,092 basehttp 212 "POST /register/ HTTP/1.1" 200 46
+INFO 2023-10-27 00:58:32,042 autoreload 266 C:\Users\guota\Project\duoduo_project\duoduoshop\Myapps\users\views.py changed, reloading.
+INFO 2023-10-27 00:58:33,456 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 00:58:35,089 basehttp 212 "POST /register/ HTTP/1.1" 200 46
+INFO 2023-10-27 01:00:11,497 autoreload 266 C:\Users\guota\Project\duoduo_project\duoduoshop\Myapps\users\views.py changed, reloading.
+INFO 2023-10-27 01:00:12,976 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 01:00:14,548 basehttp 212 "POST /register/ HTTP/1.1" 200 46
+INFO 2023-10-27 01:00:59,686 autoreload 266 C:\Users\guota\Project\duoduo_project\duoduoshop\Myapps\users\views.py changed, reloading.
+INFO 2023-10-27 01:01:01,243 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 01:01:03,620 basehttp 212 "POST /register/ HTTP/1.1" 200 53
+INFO 2023-10-27 01:02:52,358 autoreload 266 C:\Users\guota\Project\duoduo_project\duoduoshop\Myapps\users\views.py changed, reloading.
+INFO 2023-10-27 01:02:53,853 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 01:02:55,849 basehttp 212 "POST /register/ HTTP/1.1" 200 56
+INFO 2023-10-27 01:03:20,649 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 01:03:35,983 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 01:03:38,978 basehttp 212 "POST /register/ HTTP/1.1" 200 38
+INFO 2023-10-27 11:25:52,299 autoreload 668 Watching for file changes with StatReloader
+WARNING 2023-10-27 11:26:32,344 log 241 Not Found: /image_codes/b20fb332-c7ac-4855-a1be-b15b1e52a827/
+WARNING 2023-10-27 11:26:32,344 basehttp 212 "GET /image_codes/b20fb332-c7ac-4855-a1be-b15b1e52a827/ HTTP/1.1" 404 2583
+WARNING 2023-10-27 11:27:38,386 log 241 Not Found: /mobiles/15189499298/count/
+WARNING 2023-10-27 11:27:38,387 basehttp 212 "GET /mobiles/15189499298/count/ HTTP/1.1" 404 2514
+WARNING 2023-10-27 11:27:42,020 log 241 Not Found: /mobiles/15189499298/count/
+WARNING 2023-10-27 11:27:42,020 basehttp 212 "GET /mobiles/15189499298/count/ HTTP/1.1" 404 2514
+WARNING 2023-10-27 11:27:42,415 log 241 Not Found: /mobiles/15189499298/count/
+WARNING 2023-10-27 11:27:42,415 basehttp 212 "GET /mobiles/15189499298/count/ HTTP/1.1" 404 2514
+INFO 2023-10-27 11:27:58,894 basehttp 212 "POST /register/ HTTP/1.1" 200 46
+INFO 2023-10-27 11:29:58,717 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 11:30:28,817 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 11:31:54,495 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 11:36:41,511 autoreload 668 Watching for file changes with StatReloader
+ERROR 2023-10-27 11:36:43,897 log 241 Internal Server Error: /register/
+Traceback (most recent call last):
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\MySQLdb\cursors.py", line 179, in execute
+    res = self._query(mogrified_query)
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\MySQLdb\cursors.py", line 330, in _query
+    db.query(q)
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\MySQLdb\connections.py", line 255, in query
+    _mysql.connection.query(self, query)
+MySQLdb.IntegrityError: (1062, "Duplicate entry '18687529472' for key 'tb_users.mobile'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\users\views.py", line 101, in post
+    User.objects.create(username=username, password=password1, mobile=mobile)
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\db\models\query.py", line 658, in create
+    obj.save(force_insert=True, using=self.db)
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\contrib\auth\base_user.py", line 76, in save
+    super().save(*args, **kwargs)
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\db\models\base.py", line 814, in save
+    self.save_base(
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\db\models\base.py", line 877, in save_base
+    updated = self._save_table(
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\db\models\base.py", line 1020, in _save_table
+    results = self._do_insert(
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\db\models\base.py", line 1061, in _do_insert
+    return manager._insert(
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\db\models\query.py", line 1805, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\db\models\sql\compiler.py", line 1822, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\MySQLdb\cursors.py", line 179, in execute
+    res = self._query(mogrified_query)
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\MySQLdb\cursors.py", line 330, in _query
+    db.query(q)
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\MySQLdb\connections.py", line 255, in query
+    _mysql.connection.query(self, query)
+django.db.utils.IntegrityError: (1062, "Duplicate entry '18687529472' for key 'tb_users.mobile'")
+ERROR 2023-10-27 11:36:43,915 basehttp 212 "POST /register/ HTTP/1.1" 500 198186
+INFO 2023-10-27 11:37:23,135 basehttp 212 "POST /register/ HTTP/1.1" 200 38
+INFO 2023-10-27 11:38:19,990 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\users\views.py changed, reloading.
+INFO 2023-10-27 11:38:21,489 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 11:38:23,153 basehttp 212 "POST /register/ HTTP/1.1" 200 38
+ERROR 2023-10-27 11:38:50,450 log 241 Internal Server Error: /register/
+Traceback (most recent call last):
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\MySQLdb\cursors.py", line 179, in execute
+    res = self._query(mogrified_query)
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\MySQLdb\cursors.py", line 330, in _query
+    db.query(q)
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\MySQLdb\connections.py", line 255, in query
+    _mysql.connection.query(self, query)
+MySQLdb.IntegrityError: (1062, "Duplicate entry 'daguoguo' for key 'tb_users.username'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\users\views.py", line 100, in post
+    User.objects.create(username=username, password=password1, mobile=mobile)
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\db\models\query.py", line 658, in create
+    obj.save(force_insert=True, using=self.db)
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\contrib\auth\base_user.py", line 76, in save
+    super().save(*args, **kwargs)
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\db\models\base.py", line 814, in save
+    self.save_base(
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\db\models\base.py", line 877, in save_base
+    updated = self._save_table(
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\db\models\base.py", line 1020, in _save_table
+    results = self._do_insert(
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\db\models\base.py", line 1061, in _do_insert
+    return manager._insert(
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\db\models\query.py", line 1805, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\db\models\sql\compiler.py", line 1822, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\MySQLdb\cursors.py", line 179, in execute
+    res = self._query(mogrified_query)
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\MySQLdb\cursors.py", line 330, in _query
+    db.query(q)
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\MySQLdb\connections.py", line 255, in query
+    _mysql.connection.query(self, query)
+django.db.utils.IntegrityError: (1062, "Duplicate entry 'daguoguo' for key 'tb_users.username'")
+ERROR 2023-10-27 11:38:50,462 basehttp 212 "POST /register/ HTTP/1.1" 500 198303
+INFO 2023-10-27 11:42:20,193 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\users\views.py changed, reloading.
+INFO 2023-10-27 11:42:21,745 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 11:47:50,299 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\users\views.py changed, reloading.
+INFO 2023-10-27 11:47:51,908 autoreload 668 Watching for file changes with StatReloader
+ERROR 2023-10-27 11:48:11,374 log 241 Internal Server Error: /register/
+Traceback (most recent call last):
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\users\views.py", line 64, in post
+    body_dict = json.loads(body_str)
+  File "D:\minicoda\lib\json\__init__.py", line 357, in loads
+    return _default_decoder.decode(s)
+  File "D:\minicoda\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "D:\minicoda\lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+json.decoder.JSONDecodeError: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+ERROR 2023-10-27 11:48:11,377 basehttp 212 "POST /register/ HTTP/1.1" 500 90618
+INFO 2023-10-27 11:48:25,009 basehttp 212 "POST /register/ HTTP/1.1" 200 38
+INFO 2023-10-27 11:53:01,904 basehttp 212 "GET /usernames/guotan_01/count/ HTTP/1.1" 200 50
+INFO 2023-10-27 11:53:15,673 basehttp 212 "OPTIONS /register/ HTTP/1.1" 200 0
+INFO 2023-10-27 11:53:15,675 basehttp 212 "GET /usernames/guotan_01/count/ HTTP/1.1" 200 50
+INFO 2023-10-27 11:53:15,681 basehttp 212 "POST /register/ HTTP/1.1" 200 55
+WARNING 2023-10-27 11:53:15,687 log 241 Not Found: /mobiles/15189499298/count/
+WARNING 2023-10-27 11:53:15,688 basehttp 212 "GET /mobiles/15189499298/count/ HTTP/1.1" 404 2514
+WARNING 2023-10-27 11:53:22,726 log 241 Not Found: /mobiles/15189499298/count/
+WARNING 2023-10-27 11:53:22,727 basehttp 212 "GET /mobiles/15189499298/count/ HTTP/1.1" 404 2514
+WARNING 2023-10-27 11:53:27,438 log 241 Not Found: /mobiles/15189499298/count/
+WARNING 2023-10-27 11:53:27,439 basehttp 212 "GET /mobiles/15189499298/count/ HTTP/1.1" 404 2514
+INFO 2023-10-27 11:53:30,668 basehttp 212 "GET /usernames/guotan_01/count/ HTTP/1.1" 200 50
+WARNING 2023-10-27 11:53:46,824 log 241 Not Found: /mobiles/18687529472/count/
+WARNING 2023-10-27 11:53:46,824 basehttp 212 "GET /mobiles/18687529472/count/ HTTP/1.1" 404 2514
+INFO 2023-10-27 11:53:50,534 basehttp 212 "POST /register/ HTTP/1.1" 200 55
+INFO 2023-10-27 11:53:50,539 basehttp 212 "GET /usernames/guotan_01/count/ HTTP/1.1" 200 50
+WARNING 2023-10-27 11:53:50,548 log 241 Not Found: /mobiles/18687529472/count/
+WARNING 2023-10-27 11:53:50,548 basehttp 212 "GET /mobiles/18687529472/count/ HTTP/1.1" 404 2514
+INFO 2023-10-27 11:54:21,125 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 11:54:22,430 basehttp 212 "GET /usernames/guotan_01/count/ HTTP/1.1" 200 50
+WARNING 2023-10-27 11:54:22,480 log 241 Not Found: /mobiles/18687529472/count/
+WARNING 2023-10-27 11:54:22,481 basehttp 212 "GET /mobiles/18687529472/count/ HTTP/1.1" 404 2514
+INFO 2023-10-27 11:54:52,827 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\users\views.py changed, reloading.
+INFO 2023-10-27 11:54:55,462 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 11:54:58,025 basehttp 212 "GET /usernames/guotan_01/count/ HTTP/1.1" 200 50
+WARNING 2023-10-27 11:54:58,061 log 241 Not Found: /mobiles/18687529472/count/
+WARNING 2023-10-27 11:54:58,062 basehttp 212 "GET /mobiles/18687529472/count/ HTTP/1.1" 404 2514
+INFO 2023-10-27 11:55:10,609 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\users\views.py changed, reloading.
+INFO 2023-10-27 11:55:13,227 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 11:55:15,446 basehttp 212 "GET /usernames/guotan_01/count/ HTTP/1.1" 200 50
+WARNING 2023-10-27 11:55:15,475 log 241 Not Found: /mobiles/18687529472/count/
+WARNING 2023-10-27 11:55:15,477 basehttp 212 "GET /mobiles/18687529472/count/ HTTP/1.1" 404 2514
+ERROR 2023-10-27 11:55:16,039 log 241 Internal Server Error: /register/
+Traceback (most recent call last):
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\MySQLdb\cursors.py", line 179, in execute
+    res = self._query(mogrified_query)
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\MySQLdb\cursors.py", line 330, in _query
+    db.query(q)
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\MySQLdb\connections.py", line 255, in query
+    _mysql.connection.query(self, query)
+MySQLdb.IntegrityError: (1062, "Duplicate entry 'guotan_01' for key 'tb_users.username'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\users\views.py", line 104, in post
+    user = User.objects.create_user(username=username, password=password1, mobile=mobile)
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\contrib\auth\models.py", line 161, in create_user
+    return self._create_user(username, email, password, **extra_fields)
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\contrib\auth\models.py", line 155, in _create_user
+    user.save(using=self._db)
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\contrib\auth\base_user.py", line 76, in save
+    super().save(*args, **kwargs)
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\db\models\base.py", line 814, in save
+    self.save_base(
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\db\models\base.py", line 877, in save_base
+    updated = self._save_table(
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\db\models\base.py", line 1020, in _save_table
+    results = self._do_insert(
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\db\models\base.py", line 1061, in _do_insert
+    return manager._insert(
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\db\models\query.py", line 1805, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\db\models\sql\compiler.py", line 1822, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\MySQLdb\cursors.py", line 179, in execute
+    res = self._query(mogrified_query)
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\MySQLdb\cursors.py", line 330, in _query
+    db.query(q)
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\MySQLdb\connections.py", line 255, in query
+    _mysql.connection.query(self, query)
+django.db.utils.IntegrityError: (1062, "Duplicate entry 'guotan_01' for key 'tb_users.username'")
+ERROR 2023-10-27 11:55:16,049 basehttp 212 "POST /register/ HTTP/1.1" 500 203905
+INFO 2023-10-27 11:55:56,335 basehttp 212 "GET /usernames/guotan_01/count/ HTTP/1.1" 200 50
+WARNING 2023-10-27 11:55:56,354 log 241 Not Found: /mobiles/18687529472/count/
+WARNING 2023-10-27 11:55:56,355 basehttp 212 "GET /mobiles/18687529472/count/ HTTP/1.1" 404 2514
+INFO 2023-10-27 11:55:56,673 basehttp 212 "POST /register/ HTTP/1.1" 200 38
+WARNING 2023-10-27 11:55:57,351 log 241 Not Found: /carts/simple/
+WARNING 2023-10-27 11:55:57,352 basehttp 212 "GET /carts/simple/ HTTP/1.1" 404 2475
+WARNING 2023-10-27 11:56:25,798 log 241 Not Found: /image_codes/08f5226c-bd63-4b9d-80e1-196a47d0ac83/
+WARNING 2023-10-27 11:56:25,799 basehttp 212 "GET /image_codes/08f5226c-bd63-4b9d-80e1-196a47d0ac83/ HTTP/1.1" 404 2583
+INFO 2023-10-27 11:56:36,610 basehttp 212 "GET /usernames/guotan_02/count/ HTTP/1.1" 200 50
+WARNING 2023-10-27 11:56:44,808 log 241 Not Found: /mobiles/13371417024/count/
+WARNING 2023-10-27 11:56:44,809 basehttp 212 "GET /mobiles/13371417024/count/ HTTP/1.1" 404 2514
+INFO 2023-10-27 11:56:52,617 basehttp 212 "GET /usernames/guotan_02/count/ HTTP/1.1" 200 50
+WARNING 2023-10-27 11:56:52,635 log 241 Not Found: /mobiles/13371417024/count/
+WARNING 2023-10-27 11:56:52,635 basehttp 212 "GET /mobiles/13371417024/count/ HTTP/1.1" 404 2514
+INFO 2023-10-27 11:56:52,968 basehttp 212 "POST /register/ HTTP/1.1" 200 38
+WARNING 2023-10-27 11:56:53,629 log 241 Not Found: /carts/simple/
+WARNING 2023-10-27 11:56:53,630 basehttp 212 "GET /carts/simple/ HTTP/1.1" 404 2475
