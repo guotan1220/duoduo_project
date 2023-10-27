@@ -959,3 +959,329 @@ WARNING 2023-10-27 11:56:52,635 basehttp 212 "GET /mobiles/13371417024/count/ HT
 INFO 2023-10-27 11:56:52,968 basehttp 212 "POST /register/ HTTP/1.1" 200 38
 WARNING 2023-10-27 11:56:53,629 log 241 Not Found: /carts/simple/
 WARNING 2023-10-27 11:56:53,630 basehttp 212 "GET /carts/simple/ HTTP/1.1" 404 2475
+INFO 2023-10-27 12:03:27,028 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\users\views.py changed, reloading.
+INFO 2023-10-27 12:03:29,673 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 12:05:44,596 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\users\views.py changed, reloading.
+INFO 2023-10-27 12:05:47,305 autoreload 668 Watching for file changes with StatReloader
+WARNING 2023-10-27 12:11:32,903 log 241 Not Found: /image_codes/87204878-15f6-47b2-b403-4c7efc3a6e05/
+WARNING 2023-10-27 12:11:32,905 basehttp 212 "GET /image_codes/87204878-15f6-47b2-b403-4c7efc3a6e05/ HTTP/1.1" 404 2583
+INFO 2023-10-27 12:11:35,034 basehttp 212 "GET /usernames/guotan_03/count/ HTTP/1.1" 200 50
+INFO 2023-10-27 12:11:35,945 basehttp 212 "GET /usernames/guotan_03/count/ HTTP/1.1" 200 50
+INFO 2023-10-27 12:11:43,752 basehttp 212 "GET /usernames/guotan_03/count/ HTTP/1.1" 200 50
+WARNING 2023-10-27 12:11:57,685 log 241 Not Found: /mobiles/13311111111/count/
+WARNING 2023-10-27 12:11:57,686 basehttp 212 "GET /mobiles/13311111111/count/ HTTP/1.1" 404 2514
+INFO 2023-10-27 12:11:57,769 basehttp 212 "GET /usernames/guotan_03/count/ HTTP/1.1" 200 50
+WARNING 2023-10-27 12:11:57,788 log 241 Not Found: /mobiles/13311111111/count/
+WARNING 2023-10-27 12:11:57,789 basehttp 212 "GET /mobiles/13311111111/count/ HTTP/1.1" 404 2514
+INFO 2023-10-27 12:11:58,137 basehttp 212 "POST /register/ HTTP/1.1" 200 38
+WARNING 2023-10-27 12:11:58,693 log 241 Not Found: /carts/simple/
+WARNING 2023-10-27 12:11:58,694 basehttp 212 "GET /carts/simple/ HTTP/1.1" 404 2475
+INFO 2023-10-27 14:07:40,128 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 14:11:38,731 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\users\views.py changed, reloading.
+INFO 2023-10-27 14:11:39,915 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 14:14:10,144 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\users\views.py changed, reloading.
+INFO 2023-10-27 14:14:11,323 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 14:15:30,282 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\users\views.py changed, reloading.
+INFO 2023-10-27 14:15:31,495 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 14:17:19,380 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\duoduoshop\urls.py changed, reloading.
+INFO 2023-10-27 14:17:20,621 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 14:18:31,308 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\verification\urls.py changed, reloading.
+INFO 2023-10-27 14:18:32,452 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 14:20:33,001 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\verification\urls.py changed, reloading.
+INFO 2023-10-27 14:20:34,241 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 14:21:08,495 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\verification\urls.py changed, reloading.
+INFO 2023-10-27 14:21:09,689 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 14:22:16,751 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\verification\views.py changed, reloading.
+INFO 2023-10-27 14:22:17,894 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 14:23:03,570 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\verification\views.py changed, reloading.
+INFO 2023-10-27 14:23:04,799 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 14:25:10,557 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\verification\views.py changed, reloading.
+INFO 2023-10-27 14:25:11,690 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 14:26:39,042 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\verification\views.py changed, reloading.
+INFO 2023-10-27 14:26:40,224 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 14:27:56,223 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\verification\views.py changed, reloading.
+INFO 2023-10-27 14:27:57,484 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 14:28:27,501 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\verification\views.py changed, reloading.
+INFO 2023-10-27 14:28:28,837 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 14:30:24,095 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\verification\views.py changed, reloading.
+INFO 2023-10-27 14:30:25,345 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 14:30:28,803 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\verification\views.py changed, reloading.
+INFO 2023-10-27 14:30:30,090 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 14:30:51,667 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\verification\views.py changed, reloading.
+INFO 2023-10-27 14:30:52,986 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 14:32:10,088 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\verification\views.py changed, reloading.
+INFO 2023-10-27 14:32:11,412 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 14:32:53,248 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\verification\views.py changed, reloading.
+INFO 2023-10-27 14:32:54,533 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 14:33:28,587 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\verification\views.py changed, reloading.
+INFO 2023-10-27 14:33:29,823 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 14:38:22,361 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\verification\urls.py changed, reloading.
+INFO 2023-10-27 14:38:23,544 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 14:38:59,499 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\verification\views.py changed, reloading.
+INFO 2023-10-27 14:39:00,671 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 14:42:21,576 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\verification\views.py changed, reloading.
+INFO 2023-10-27 14:42:22,716 autoreload 668 Watching for file changes with StatReloader
+WARNING 2023-10-27 14:42:46,151 log 241 Not Found: /imagecodes/111
+WARNING 2023-10-27 14:42:46,151 basehttp 212 "GET /imagecodes/111 HTTP/1.1" 404 2641
+WARNING 2023-10-27 14:42:46,276 log 241 Not Found: /favicon.ico
+WARNING 2023-10-27 14:42:46,277 basehttp 212 "GET /favicon.ico HTTP/1.1" 404 2632
+WARNING 2023-10-27 14:43:00,932 log 241 Not Found: /imagecodes/111/
+WARNING 2023-10-27 14:43:00,933 basehttp 212 "GET /imagecodes/111/ HTTP/1.1" 404 2644
+INFO 2023-10-27 14:43:48,563 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\verification\urls.py changed, reloading.
+INFO 2023-10-27 14:43:49,796 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 14:44:19,717 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\duoduoshop\urls.py changed, reloading.
+INFO 2023-10-27 14:44:20,892 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 14:46:59,601 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\verification\views.py changed, reloading.
+INFO 2023-10-27 14:47:00,779 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 14:47:31,514 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\verification\views.py changed, reloading.
+INFO 2023-10-27 14:47:32,667 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 14:47:57,812 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 14:49:04,151 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\verification\views.py changed, reloading.
+INFO 2023-10-27 14:49:06,253 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 14:49:17,036 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 14:50:53,735 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 14:51:27,540 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 14:51:36,246 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 14:51:43,822 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 14:52:54,959 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 14:54:22,144 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 15:00:40,182 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 15:02:43,763 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 15:07:11,845 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 15:07:31,433 autoreload 668 Watching for file changes with StatReloader
+ERROR 2023-10-27 15:07:39,073 log 241 Internal Server Error: /imagecodes/123/
+Traceback (most recent call last):
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\verification\views.py", line 25, in get
+    text, image = captcha.generate_captcha()
+  File "C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Libs\captcha\captcha\captcha.py", line 215, in generate_captcha
+    return self.captcha("")
+  File "C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Libs\captcha\captcha\captcha.py", line 204, in captcha
+    image = self.text(image, self.fonts, drawings=['warp', 'rotate', 'offset'])
+  File "C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Libs\captcha\captcha\captcha.py", line 132, in text
+    c_width, c_height = draw.textsize(c, font=font)
+AttributeError: 'ImageDraw' object has no attribute 'textsize'
+ERROR 2023-10-27 15:07:39,075 basehttp 212 "GET /imagecodes/123/ HTTP/1.1" 500 94854
+INFO 2023-10-27 15:09:13,768 autoreload 266 C:\Users\guota\Envs\duoduoshop\Lib\site-packages\PIL\_binary.py changed, reloading.
+INFO 2023-10-27 15:09:15,917 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 15:09:35,286 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 15:09:45,231 basehttp 212 "GET /imagecodes/123/ HTTP/1.1" 200 3198
+INFO 2023-10-27 15:12:13,896 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 15:12:14,834 basehttp 212 "GET /imagecodes/123/ HTTP/1.1" 200 3364
+INFO 2023-10-27 15:12:17,350 basehttp 212 "GET /imagecodes/123/ HTTP/1.1" 200 3081
+INFO 2023-10-27 15:12:18,316 basehttp 212 "GET /imagecodes/123/ HTTP/1.1" 200 3723
+INFO 2023-10-27 15:12:18,946 basehttp 212 "GET /imagecodes/123/ HTTP/1.1" 200 3406
+INFO 2023-10-27 15:12:21,870 basehttp 212 "GET /imagecodes/123/ HTTP/1.1" 200 3205
+INFO 2023-10-27 15:14:39,679 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 15:14:41,857 basehttp 212 "GET /imagecodes/123/ HTTP/1.1" 200 3269
+INFO 2023-10-27 15:14:42,475 basehttp 212 "GET /imagecodes/123/ HTTP/1.1" 200 3046
+INFO 2023-10-27 15:14:42,777 basehttp 212 "GET /imagecodes/123/ HTTP/1.1" 200 3310
+INFO 2023-10-27 15:14:42,944 basehttp 212 "GET /imagecodes/123/ HTTP/1.1" 200 3629
+INFO 2023-10-27 15:39:08,367 basehttp 212 "GET /imagecodes/123/ HTTP/1.1" 200 3230
+INFO 2023-10-27 15:39:09,404 basehttp 212 "GET /imagecodes/123/ HTTP/1.1" 200 3127
+INFO 2023-10-27 16:11:30,212 basehttp 212 "GET /imagecodes/123/ HTTP/1.1" 200 3296
+INFO 2023-10-27 16:11:36,396 basehttp 212 "GET /imagecodes/123/ HTTP/1.1" 200 2946
+INFO 2023-10-27 16:11:43,341 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 16:11:58,821 basehttp 212 "GET /imagecodes/123/ HTTP/1.1" 200 2994
+INFO 2023-10-27 16:12:28,714 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\verification\views.py changed, reloading.
+INFO 2023-10-27 16:12:30,758 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 16:13:45,883 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\verification\views.py changed, reloading.
+INFO 2023-10-27 16:13:47,995 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 16:15:39,818 autoreload 668 Watching for file changes with StatReloader
+WARNING 2023-10-27 16:15:49,268 log 241 Not Found: /favicon.ico
+WARNING 2023-10-27 16:15:49,269 basehttp 212 "GET /favicon.ico HTTP/1.1" 404 2640
+INFO 2023-10-27 16:16:05,264 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 16:16:28,032 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 16:17:01,143 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 16:17:05,510 basehttp 212 "GET /imagecodes/123/ HTTP/1.1" 200 3063
+INFO 2023-10-27 16:17:15,011 basehttp 212 "GET /imagecodes/111/ HTTP/1.1" 200 3129
+WARNING 2023-10-27 16:18:22,835 log 241 Not Found: /image_codes/9fda29a2-35dd-4a9f-b067-8c88485d530d/
+WARNING 2023-10-27 16:18:22,836 basehttp 212 "GET /image_codes/9fda29a2-35dd-4a9f-b067-8c88485d530d/ HTTP/1.1" 404 2754
+WARNING 2023-10-27 16:18:23,931 log 241 Not Found: /image_codes/e850ef5c-3a5b-496c-9564-b09751d76018/
+WARNING 2023-10-27 16:18:23,931 basehttp 212 "GET /image_codes/e850ef5c-3a5b-496c-9564-b09751d76018/ HTTP/1.1" 404 2754
+INFO 2023-10-27 16:20:03,658 autoreload 668 Watching for file changes with StatReloader
+WARNING 2023-10-27 16:20:04,150 log 241 Not Found: /image_codes/dce6aa23-dbd3-4fd9-a1cc-750ea46b81b7/
+WARNING 2023-10-27 16:20:04,151 basehttp 212 "GET /image_codes/dce6aa23-dbd3-4fd9-a1cc-750ea46b81b7/ HTTP/1.1" 404 2754
+WARNING 2023-10-27 16:20:05,106 log 241 Not Found: /image_codes/39bb1598-a4ec-4d4b-bf27-63236bfc516b/
+WARNING 2023-10-27 16:20:05,107 basehttp 212 "GET /image_codes/39bb1598-a4ec-4d4b-bf27-63236bfc516b/ HTTP/1.1" 404 2754
+WARNING 2023-10-27 16:20:05,975 log 241 Not Found: /image_codes/c2b864e4-125b-4ddf-80f8-a4710fbdd2ae/
+WARNING 2023-10-27 16:20:05,976 basehttp 212 "GET /image_codes/c2b864e4-125b-4ddf-80f8-a4710fbdd2ae/ HTTP/1.1" 404 2754
+INFO 2023-10-27 16:21:27,270 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 16:21:28,470 basehttp 212 "GET /image_codes/d681525a-5e5f-4a9a-be82-ef3d33711c2c/ HTTP/1.1" 200 3358
+INFO 2023-10-27 16:21:37,886 basehttp 212 "GET /image_codes/560e52a9-a618-46d4-88c0-797da7a473dd/ HTTP/1.1" 200 3168
+INFO 2023-10-27 16:46:45,507 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\verification\views.py changed, reloading.
+INFO 2023-10-27 16:46:47,090 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 17:11:18,053 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 17:17:25,511 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 17:18:02,193 basehttp 212 "GET /usernames/guotan_04/count/ HTTP/1.1" 200 50
+INFO 2023-10-27 17:18:04,135 basehttp 212 "GET /usernames/guotan_04/count/ HTTP/1.1" 200 50
+INFO 2023-10-27 17:18:13,587 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 17:19:38,755 basehttp 212 "GET /usernames/guotan_04/count/ HTTP/1.1" 200 50
+INFO 2023-10-27 17:19:40,100 basehttp 212 "GET /usernames/guotan_04/count/ HTTP/1.1" 200 50
+ERROR 2023-10-27 17:21:25,345 log 241 Internal Server Error: /sms_codes/18687529472/
+Traceback (most recent call last):
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\verification\views.py", line 50, in get
+    image_code = request.GET('image_code')
+TypeError: 'QueryDict' object is not callable
+ERROR 2023-10-27 17:21:25,350 basehttp 212 "GET /sms_codes/18687529472/ HTTP/1.1" 500 80306
+ERROR 2023-10-27 17:26:13,296 log 241 Internal Server Error: /sms_codes/18687529472/
+Traceback (most recent call last):
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\verification\views.py", line 50, in get
+    image_code = request.post
+TypeError: 'QueryDict' object is not callable
+ERROR 2023-10-27 17:26:13,299 basehttp 212 "GET /sms_codes/18687529472/ HTTP/1.1" 500 80397
+INFO 2023-10-27 17:26:13,632 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\verification\views.py changed, reloading.
+INFO 2023-10-27 17:26:16,434 autoreload 668 Watching for file changes with StatReloader
+ERROR 2023-10-27 17:26:23,933 log 241 Internal Server Error: /sms_codes/18687529472/
+Traceback (most recent call last):
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\verification\views.py", line 50, in get
+    image_code = request.post
+AttributeError: 'WSGIRequest' object has no attribute 'post'
+ERROR 2023-10-27 17:26:23,937 basehttp 212 "GET /sms_codes/18687529472/ HTTP/1.1" 500 80507
+INFO 2023-10-27 17:26:41,533 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 17:28:40,211 autoreload 668 Watching for file changes with StatReloader
+ERROR 2023-10-27 17:28:41,655 log 241 Internal Server Error: /sms_codes/18687529472/
+Traceback (most recent call last):
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\guota\Envs\duoduoshop\lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\verification\views.py", line 50, in get
+    image_code = request.GET('image_code')
+TypeError: 'QueryDict' object is not callable
+ERROR 2023-10-27 17:28:41,659 basehttp 212 "GET /sms_codes/18687529472/?image_code=111&image_code_id=111 HTTP/1.1" 500 81168
+INFO 2023-10-27 17:29:20,008 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 17:38:37,269 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\verification\views.py changed, reloading.
+INFO 2023-10-27 17:38:39,906 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 17:49:58,358 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\verification\views.py changed, reloading.
+INFO 2023-10-27 17:50:00,939 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 17:55:46,620 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 17:56:10,776 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 17:56:18,637 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 17:56:26,137 basehttp 212 "GET /sms_codes/18687529472/?image_code=111&image_code_id=111 HTTP/1.1" 200 75
+INFO 2023-10-27 17:56:34,211 basehttp 212 "GET /usernames/guotan_04/count/ HTTP/1.1" 200 50
+INFO 2023-10-27 17:56:36,703 basehttp 212 "GET /usernames/guotan_04/count/ HTTP/1.1" 200 50
+WARNING 2023-10-27 17:56:41,144 log 241 Not Found: /mobiles/13311111114/count/
+WARNING 2023-10-27 17:56:41,145 basehttp 212 "GET /mobiles/13311111114/count/ HTTP/1.1" 404 2865
+INFO 2023-10-27 17:56:41,643 basehttp 212 "GET /usernames/guotan_04/count/ HTTP/1.1" 200 50
+INFO 2023-10-27 17:56:41,646 basehttp 212 "OPTIONS /register/ HTTP/1.1" 200 0
+WARNING 2023-10-27 17:56:41,660 log 241 Not Found: /mobiles/13311111114/count/
+WARNING 2023-10-27 17:56:41,660 basehttp 212 "GET /mobiles/13311111114/count/ HTTP/1.1" 404 2865
+INFO 2023-10-27 17:56:42,013 basehttp 212 "POST /register/ HTTP/1.1" 200 38
+WARNING 2023-10-27 17:56:42,828 log 241 Not Found: /carts/simple/
+WARNING 2023-10-27 17:56:42,829 basehttp 212 "GET /carts/simple/ HTTP/1.1" 404 2826
+INFO 2023-10-27 17:56:47,060 basehttp 212 "GET /image_codes/e8b921db-55cd-4f70-bf85-e2928c8d64a0/ HTTP/1.1" 200 3384
+INFO 2023-10-27 17:56:57,441 basehttp 212 "GET /usernames/guotan_04/count/ HTTP/1.1" 200 50
+INFO 2023-10-27 17:56:59,795 basehttp 212 "GET /usernames/guotan_05/count/ HTTP/1.1" 200 50
+WARNING 2023-10-27 17:57:12,287 log 241 Not Found: /mobiles/13311111115/count/
+WARNING 2023-10-27 17:57:12,287 basehttp 212 "GET /mobiles/13311111115/count/ HTTP/1.1" 404 2865
+INFO 2023-10-27 17:57:14,178 basehttp 212 "GET /usernames/guotan_05/count/ HTTP/1.1" 200 50
+WARNING 2023-10-27 17:57:14,188 log 241 Not Found: /mobiles/13311111115/count/
+WARNING 2023-10-27 17:57:14,189 basehttp 212 "GET /mobiles/13311111115/count/ HTTP/1.1" 404 2865
+INFO 2023-10-27 17:57:14,520 basehttp 212 "POST /register/ HTTP/1.1" 200 38
+WARNING 2023-10-27 17:57:15,338 log 241 Not Found: /carts/simple/
+WARNING 2023-10-27 17:57:15,339 basehttp 212 "GET /carts/simple/ HTTP/1.1" 404 2826
+INFO 2023-10-27 17:57:34,209 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 17:57:52,808 basehttp 212 "GET /image_codes/6c5b8d71-340a-4a7d-ace7-eeb99a7c6421/ HTTP/1.1" 200 2901
+INFO 2023-10-27 17:57:56,175 basehttp 212 "GET /image_codes/8470bc1f-1f4b-43b7-921a-a0a6b4cbef1d/ HTTP/1.1" 200 3109
+INFO 2023-10-27 17:58:06,336 basehttp 212 "GET /usernames/guotan_05/count/ HTTP/1.1" 200 50
+WARNING 2023-10-27 17:58:06,361 log 241 Not Found: /mobiles/13311111115/count/
+WARNING 2023-10-27 17:58:06,362 basehttp 212 "GET /mobiles/13311111115/count/ HTTP/1.1" 404 2865
+INFO 2023-10-27 17:58:08,072 basehttp 212 "GET /usernames/guotan_06/count/ HTTP/1.1" 200 50
+WARNING 2023-10-27 17:58:19,933 log 241 Not Found: /mobiles/13311111116/count/
+WARNING 2023-10-27 17:58:19,933 basehttp 212 "GET /mobiles/13311111116/count/ HTTP/1.1" 404 2865
+INFO 2023-10-27 17:58:27,566 basehttp 212 "GET /usernames/guotan_06/count/ HTTP/1.1" 200 50
+WARNING 2023-10-27 17:58:27,583 log 241 Not Found: /mobiles/13311111116/count/
+WARNING 2023-10-27 17:58:27,584 basehttp 212 "GET /mobiles/13311111116/count/ HTTP/1.1" 404 2865
+INFO 2023-10-27 17:58:27,905 basehttp 212 "POST /register/ HTTP/1.1" 200 38
+WARNING 2023-10-27 17:58:28,695 log 241 Not Found: /carts/simple/
+WARNING 2023-10-27 17:58:28,696 basehttp 212 "GET /carts/simple/ HTTP/1.1" 404 2826
+INFO 2023-10-27 17:59:15,515 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\verification\views.py changed, reloading.
+INFO 2023-10-27 17:59:18,383 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 18:00:52,455 basehttp 212 "GET /image_codes/cff07815-8f75-4da6-b79e-d9addc99456a/ HTTP/1.1" 200 3036
+INFO 2023-10-27 18:00:58,751 basehttp 212 "GET /usernames/guotan_06/count/ HTTP/1.1" 200 50
+WARNING 2023-10-27 18:00:58,778 log 241 Not Found: /mobiles/13311111116/count/
+WARNING 2023-10-27 18:00:58,779 basehttp 212 "GET /mobiles/13311111116/count/ HTTP/1.1" 404 2865
+WARNING 2023-10-27 18:01:00,854 log 241 Not Found: /mobiles/13311111117/count/
+WARNING 2023-10-27 18:01:00,854 basehttp 212 "GET /mobiles/13311111117/count/ HTTP/1.1" 404 2865
+INFO 2023-10-27 18:01:05,544 basehttp 212 "GET /image_codes/ecc65934-3ed1-451d-b4b0-d8fb8fc914f3/ HTTP/1.1" 200 3126
+WARNING 2023-10-27 18:01:16,204 log 241 Not Found: /mobiles/13311111117/count/
+WARNING 2023-10-27 18:01:16,205 basehttp 212 "GET /mobiles/13311111117/count/ HTTP/1.1" 404 2865
+INFO 2023-10-27 18:02:27,224 basehttp 212 "GET /sms_codes/13311111117/?image_code=FGzp&image_code_id=ecc65934-3ed1-451d-b4b0-d8fb8fc914f3 HTTP/1.1" 200 69
+INFO 2023-10-27 18:02:36,239 basehttp 212 "GET /usernames/guotan_06/count/ HTTP/1.1" 200 50
+WARNING 2023-10-27 18:02:36,258 log 241 Not Found: /mobiles/13311111117/count/
+WARNING 2023-10-27 18:02:36,260 basehttp 212 "GET /mobiles/13311111117/count/ HTTP/1.1" 404 2865
+INFO 2023-10-27 18:02:54,952 basehttp 212 "GET /usernames/guotan_06/count/ HTTP/1.1" 200 50
+WARNING 2023-10-27 18:02:54,970 log 241 Not Found: /mobiles/13311111117/count/
+WARNING 2023-10-27 18:02:54,973 basehttp 212 "GET /mobiles/13311111117/count/ HTTP/1.1" 404 2865
+INFO 2023-10-27 18:03:15,701 basehttp 212 "GET /image_codes/378e9242-9d2b-43fe-b8f5-33be8f004f21/ HTTP/1.1" 200 3239
+WARNING 2023-10-27 18:03:20,356 log 241 Not Found: /mobiles/13311111116/count/
+WARNING 2023-10-27 18:03:20,359 basehttp 212 "GET /mobiles/13311111116/count/ HTTP/1.1" 404 2865
+WARNING 2023-10-27 18:03:26,571 log 241 Not Found: /mobiles/13311111116/count/
+WARNING 2023-10-27 18:03:26,572 basehttp 212 "GET /mobiles/13311111116/count/ HTTP/1.1" 404 2865
+INFO 2023-10-27 18:05:48,643 basehttp 212 "GET /image_codes/e5406346-3071-4230-ad4a-1defb1ac971e/ HTTP/1.1" 200 3176
+WARNING 2023-10-27 18:05:51,152 log 241 Not Found: /mobiles/13311111116/count/
+WARNING 2023-10-27 18:05:51,153 basehttp 212 "GET /mobiles/13311111116/count/ HTTP/1.1" 404 2865
+INFO 2023-10-27 18:05:52,184 basehttp 212 "GET /image_codes/ded3735d-6ee9-496a-9397-89cfeb68fb9b/ HTTP/1.1" 200 2990
+INFO 2023-10-27 18:05:53,365 basehttp 212 "GET /image_codes/451400d5-b3f6-490e-96ee-b697b51909db/ HTTP/1.1" 200 3253
+WARNING 2023-10-27 18:05:58,517 log 241 Not Found: /mobiles/13311111116/count/
+WARNING 2023-10-27 18:05:58,518 basehttp 212 "GET /mobiles/13311111116/count/ HTTP/1.1" 404 2865
+INFO 2023-10-27 18:07:17,652 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 18:07:24,109 basehttp 212 "GET /image_codes/cd3bc86a-2a40-4b5a-a835-dc8b4b7a84b9/ HTTP/1.1" 200 3063
+INFO 2023-10-27 18:07:42,799 basehttp 212 "GET /image_codes/150ec401-3751-4782-b076-014da2eecd19/ HTTP/1.1" 200 3297
+WARNING 2023-10-27 18:07:45,570 log 241 Not Found: /mobiles/18687529472/count/
+WARNING 2023-10-27 18:07:45,572 basehttp 212 "GET /mobiles/18687529472/count/ HTTP/1.1" 404 2865
+INFO 2023-10-27 18:07:46,526 basehttp 212 "GET /image_codes/6511d426-35d1-4dbf-967d-990386c68027/ HTTP/1.1" 200 2794
+WARNING 2023-10-27 18:07:54,985 log 241 Not Found: /mobiles/18687529472/count/
+WARNING 2023-10-27 18:07:54,986 basehttp 212 "GET /mobiles/18687529472/count/ HTTP/1.1" 404 2865
+INFO 2023-10-27 18:10:17,222 autoreload 266 C:\Users\guota\OneDrive\桌面\duoduo_project\duoduoshop\Myapps\verification\views.py changed, reloading.
+INFO 2023-10-27 18:10:19,932 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-10-27 18:14:52,609 autoreload 668 Watching for file changes with StatReloader
+WARNING 2023-10-27 18:14:59,093 log 241 Not Found: /mobiles/18687529472/count/
+WARNING 2023-10-27 18:14:59,094 basehttp 212 "GET /mobiles/18687529472/count/ HTTP/1.1" 404 2865
+INFO 2023-10-27 18:15:00,358 basehttp 212 "GET /image_codes/5afbe95f-9df4-4d45-a100-86b7af846302/ HTTP/1.1" 200 2668
+WARNING 2023-10-27 18:15:07,354 log 241 Not Found: /mobiles/18687529472/count/
+WARNING 2023-10-27 18:15:07,355 basehttp 212 "GET /mobiles/18687529472/count/ HTTP/1.1" 404 2865
+INFO 2023-10-27 18:15:39,349 basehttp 212 "GET /image_codes/bd3b0a0a-a9cd-4099-83c3-68435555b41e/ HTTP/1.1" 200 3342
+WARNING 2023-10-27 18:15:43,770 log 241 Not Found: /mobiles/13311111117/count/
+WARNING 2023-10-27 18:15:43,772 basehttp 212 "GET /mobiles/13311111117/count/ HTTP/1.1" 404 2865
+WARNING 2023-10-27 18:15:49,960 log 241 Not Found: /mobiles/13311111117/count/
+WARNING 2023-10-27 18:15:49,960 basehttp 212 "GET /mobiles/13311111117/count/ HTTP/1.1" 404 2865
+INFO 2023-10-27 18:15:51,615 basehttp 81 - Broken pipe from ('127.0.0.1', 62941)
+WARNING 2023-10-27 18:17:10,377 log 241 Not Found: /mobiles/13311111117/count/
+WARNING 2023-10-27 18:17:10,378 basehttp 212 "GET /mobiles/13311111117/count/ HTTP/1.1" 404 2865

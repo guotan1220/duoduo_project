@@ -103,10 +103,26 @@ class RegisterView(View):
         # 方法三（能够对密码进行加密）
         user = User.objects.create_user(username=username, password=password1, mobile=mobile)
         user.save()
+        from django.contrib.auth import login
+        login(request, user)
         return JsonResponse({'code': 0,
                              'errmsg': 'ok from daguo'})
 
+
 """
-注册思路分析：
-前端
+注册之后的行为：
+    需求一：注册成功即代表用户认证通过，那么此时可以在注册成功之后实现状态保持（注册成功即已经登录）
+    需求二：注册成功跳转到登陆界面，然后由用户操作进行登陆
+状态保持方法1：
+    cookie
+    session 
+状态保持方法2：
+    from django.contrib.auth import login
+    login(request, user)
+"""
+
+"""
+图形验证码流程;
+    前端：发送请求，uuid
+    
 """

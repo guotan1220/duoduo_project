@@ -18,10 +18,12 @@ from django.contrib import admin
 from django.urls import path, include
 from django.http import HttpResponse
 
-from utils.converters import UsernameConverter
+from utils.converters import UsernameConverter, MobileConverter
 from django.urls import register_converter
 register_converter(UsernameConverter, 'username')
+register_converter(MobileConverter, 'mobile')
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('', include('Myapps.users.urls'))
+    path('', include('Myapps.users.urls')),
+    path('', include('Myapps.verification.urls'))
 ]
