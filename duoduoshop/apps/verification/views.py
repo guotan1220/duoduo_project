@@ -1,13 +1,13 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-from django.shortcuts import render
 from django.views import View
-from libs.captcha.captcha.captcha import captcha
+from Libs.captcha.captcha.captcha import captcha
 from django_redis import get_redis_connection
 from django.http import HttpResponse, JsonResponse
-from libs.yuntongxun.sms import CCP
 from random import randint
+
+
 # Create your views here.
 # 图形验证码的逻辑
 # 前端：
@@ -64,13 +64,25 @@ class CmsCodeView(View):
         if redis_image_code.decode().lower() != image_code.lower():
             return JsonResponse({'code': 400,
                                  'errmsg': '验证码输入错误'})
-        # 4.生成短信验证码
-        vcode = '%06d' % randint(0, 999999)
-        # 5.保存短信验证码
-        redis_cli.setex(mobile, 100, vcode)
-        # 6.发送短信验证码
-        ccp = CCP()
-        ccp.send_template_sms(mobile, [vcode, 5], 1)
+        # 6.发送短信验证码-并且实现阻止频繁发送功能
+        # 发送标志位，存放在redis中，设置60s时间过期，一旦申请验证码之后60s就无法再申请
+        send_flag = redis_cli.get('mobile%s' % mobile)
+        if send_flag:
+            return JsonResponse({'code': 400,
+                                 'errmsg': 'please wait a minute'})
+        else:
+            # 4.生成短信验证码
+            vcode = '%04d' % randint(0, 9999)
+            # 5.保存短信验证码-使用管道技术，一次性将redia请求提交
+            pl = redis_cli.pipeline()
+            pl.setex('sms%s' % mobile, 100, vcode)
+            pl.setex('mobile%s' % mobile, 60, 1)
+            # CCP().send_template_sms(mobile, [vcode, 5], 1)
+            # 使用celery插件实现短信的异步发送
+            from celery_demo.cms.tasks import celery_send_sms_code
+            celery_send_sms_code.delay(mobile, vcode,5)
+            pl.execute()
+
         # 7.返回响应
         return JsonResponse({'code': 0,
                              'errmsg': 'ok'})

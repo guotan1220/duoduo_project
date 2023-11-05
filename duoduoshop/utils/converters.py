@@ -13,3 +13,10 @@ class MobileConverter:
 
     def to_python(self, value):
         return value
+
+
+class AddressIdConverter:
+    regex = '[0-9]'
+
+    def to_python(self, value):
+        return value

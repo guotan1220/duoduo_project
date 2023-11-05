@@ -24,6 +24,7 @@ register_converter(UsernameConverter, 'username')
 register_converter(MobileConverter, 'mobile')
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('', include('Myapps.users.urls')),
-    path('', include('Myapps.verification.urls'))
+    path('', include('apps.users.urls')),
+    path('', include('apps.verification.urls')),
+    path('', include('apps.areas.urls'))
 ]

@@ -1,7 +1,7 @@
 # -*- coding:utf-8 -*-
 
 # from .CCPRestSDK import REST
-from .CCPRestSDK import REST
+from Libs.yuntongxun.CCPRestSDK import REST
 # 说明：主账号，登陆云通讯网站后，可在"控制台-应用"中看到开发者主账号ACCOUNT SID
 _accountSid = '2c94811c8b1e335b018b703f7ec513fa'
 

@@ -1,3 +1,8 @@
+# settings.py
+
+# 设置字符集为UTF-8
+# -*- coding: utf-8 -*-
+
 """
 Django settings for duoduoshop project.
 
@@ -9,20 +14,23 @@ https://docs.djangoproject.com/en/4.2/topics/settings/
 For the full list of settings and their values, see
 https://docs.djangoproject.com/en/4.2/ref/settings/
 """
-
 from pathlib import Path
 import os
 import sys
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
+sys.path.insert(0, os.path.join(BASE_DIR, 'apps'))
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/4.2/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
 SECRET_KEY = 'django-insecure-s_cfyn)h41em$6q1=j^m^=jp%ybcfmkf2u-0eptk9q9%_9m%me'
-
+# 邮箱验证链接
+# 邮箱验证链接
+EMAIL_VERIFY_URL = 'http://www.duoduoshop.site:8080/success_verify_email.html'
+HEADER = {'alg': 'HS256'}
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['www.duoduoshop.site', '127.0.0.1']
 
@@ -35,9 +43,9 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'Myapps.users',
     'corsheaders',
-
+    'apps.users',
+    'apps.areas',
 ]
 
 MIDDLEWARE = [
@@ -205,4 +213,22 @@ CORS_ORIGIN_WHITELIST = (
     'http://www.duoduoshop.site:8080',
     'http://www.duoduoshop.site:8000'
 )
+
 CORS_ALLOW_CREDENTIALS = True  # 允许携带cookie
+
+CELERY_BROKER_CONNECTION_RETRY_ON_STARTUP = True
+CELERY_TASK_SERIALIZER = 'pickle'
+CELERY_RESULT_SERIALIZER = 'pickle'
+CELERY_TASK_RESULT_EXPIRES = 60 * 60 * 24   # 任务过期时间
+CELERY_ACCEPT_CONTENT = ["pickle"]            # 指定任务接受的内容序列化的类型.
+
+###################smtp邮件的配置##################
+# 在settings.py中添加配置参数：
+# 用于发送邮件的邮箱
+EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
+EMAIL_USE_TLS = True  # 是否使用TLS安全传输协议(用于在两个通信应用程序之间提供保密性和数据完整性)
+EMAIL_USE_SSL = False  # 是否使用SSL加密，qq企业邮箱要求使用，163邮箱设置为True的时候会报ssl的错误
+EMAIL_HOST = 'smtp.163.com'  # 发送邮件的邮箱的SMTP服务器，这里用的是163邮箱
+EMAIL_PORT = 25  # 发件箱的SMTP服务器端口，默认是25
+EMAIL_HOST_USER = 'guotan1220@163.com'  # 发送邮件的邮箱地址
+EMAIL_HOST_PASSWORD = 'PLTMDPKZMXZCWTRA'  # 发送邮件的邮箱密码(这里使用的是授权码)
